@@ -51,6 +51,10 @@ Contributions to the project are welcome! Fork the repository, make your changes
 
 
 Snapshots:
+![Screenshot 2024-03-17 095641](https://github.com/venkatesh13579/-Stock-Investments-AB05/assets/127196958/142ba18d-dc6e-48bf-b2f1-a99b0dc98c57)
+![Screenshot 2024-03-17 095626](https://github.com/venkatesh13579/-Stock-Investments-AB05/assets/127196958/3edea691-d0ad-4ee4-a5d4-f5f18312ad91)
+![Screenshot 2024-03-17 095510](https://github.com/venkatesh13579/-Stock-Investments-AB05/assets/127196958/35eee7b1-0071-4777-9b63-12fa4ff442aa)
+![Screenshot 2024-03-17 095408](https://github.com/venkatesh13579/-Stock-Investments-AB05/assets/127196958/7eacd4b1-9194-4312-aa48-b56bc968a6cf)
 
 
 
